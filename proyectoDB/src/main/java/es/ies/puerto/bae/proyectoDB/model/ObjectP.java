@@ -1,16 +1,18 @@
 package es.ies.puerto.bae.proyectoDB.model;
 
-import es.ies.puerto.bae.proyectoDB.enumerate.Type;
+import es.ies.puerto.bae.proyectoDB.enumerate.Category;
 
-import java.util.List;
 import java.util.Objects;
 
-public class Pokemon {
-    private int id;
-    private List<Type> types;
-    private String name;
 
-    public Pokemon(){
+public class ObjectP {
+
+    private int id;
+    private String name;
+    private String description;
+    private Category category;
+
+    public ObjectP() {
     }
 
     public int getId() {
@@ -21,14 +23,6 @@ public class Pokemon {
         this.id = id;
     }
 
-    public List<Type> getTypes() {
-        return types;
-    }
-
-    public void setTypes(List<Type> types) {
-        this.types = types;
-    }
-
     public String getName() {
         return name;
     }
@@ -37,12 +31,28 @@ public class Pokemon {
         this.name = name;
     }
 
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public Category getCategory() {
+        return category;
+    }
+
+    public void setCategory(Category category) {
+        this.category = category;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Pokemon pokemon = (Pokemon) o;
-        return id == pokemon.id;
+        ObjectP objectP = (ObjectP) o;
+        return id == objectP.id;
     }
 
     @Override
