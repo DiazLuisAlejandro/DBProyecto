@@ -1,6 +1,6 @@
 ![POKEDEX](Imagenes/ImagenPrinicpal.png)
 
-El objetivo de crear esta app es poder hacer consultas de la base de datos PokemonDb que extraer información sobre pokémon en específico, información sobre los distintos objetos del juego y datos de los entrenadores .
+El objetivo de crear esta app es poder hacer consultas de la base de datos PokemonDb que extraer información sobre pokemon en específico, información sobre los distintos itemsP del juego y datos de los Trainers .
 
 ***
 
