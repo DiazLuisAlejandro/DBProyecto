@@ -30,3 +30,7 @@ En esta parte se verá como esta construida la base de datos, explicando cada pa
 
    La Estructura que  contiene el modelo es  no relacional.
 
+
+
+
+..
