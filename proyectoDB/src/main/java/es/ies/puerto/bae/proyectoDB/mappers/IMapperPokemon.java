@@ -1,10 +1,10 @@
 package es.ies.puerto.bae.proyectoDB.mappers;
 
+import es.ies.puerto.bae.proyectoDB.model.entity.Pokemon;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
 import es.ies.puerto.bae.proyectoDB.Dto.PokemonDto;
-import es.ies.puerto.bae.proyectoDB.model.entity.Pokemon;
 
 @Mapper
 public interface IMapperPokemon {
