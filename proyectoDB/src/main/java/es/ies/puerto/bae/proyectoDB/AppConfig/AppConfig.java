@@ -11,9 +11,9 @@ public class AppConfig extends PokemonException {
 
     public  AppConfig() throws PokemonException{
         Properties properties=new Properties();
-        try(FileInputStream fileInputStream= new FileInputStream("src/main/resources/app.properties")){
+        try(FileInputStream fileInputStream= new FileInputStream("src/main/resources/application.properties")){
             properties.load(fileInputStream);
-            urlDB=(String) properties.get("nameBd");
+            urlDB=(String) properties.get("proyectoDB");
         } catch (IOException e) {
             throw new PokemonException(e.getMessage(),e);
         }
