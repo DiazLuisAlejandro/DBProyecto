@@ -8,4 +8,7 @@ public class PokemonException extends Exception{
 
     public PokemonException(String message, Throwable e) {
     }
+
+    public PokemonException() {
+    }
 }
