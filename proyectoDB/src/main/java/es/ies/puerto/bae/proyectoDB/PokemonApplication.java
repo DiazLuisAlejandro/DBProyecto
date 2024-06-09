@@ -5,11 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class PokemonAplication {
+public class PokemonApplication {
 
 
     public static void main(String[] args) {
-        SpringApplication.run(PokemonAplication.class, args);
+        SpringApplication.run(PokemonApplication.class, args);
     }
 
 
