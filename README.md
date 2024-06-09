@@ -8,15 +8,21 @@ El objetivo de crear esta app es poder hacer consultas de la base de datos Pokem
 
 [<img src="Imagenes/EnlaceAplicacion.png" width="12%"  > App PokemonDb <img/>](https://github.com/)
 
-En esta parte
+En esta partese verá como esta contruida la app .
 
 [<img src="Imagenes/EnlaceBaseDeDatos.png" width="12%"  > Base de datos PokemonDb <img/>](https://github.com/)
 
-En esta parte se verá como esta construida la base de datos, explicando cada parte y los procedimientos que tiene.
+En esta parte se verá como esta construida la base de datos
 
 ## Aplicación PokemonDb
 
+#### [<img src="Imagenes/EnlaceEstructuraBd.png" width="12%"  >  <img/>](https://github.com//wiki/App)
 
+   La app esta diseñada para buscar , eliminar , insertar  y modificar  .
+
+#### [<img src="Imagenes/Test.jpg" width="12%"  > Test <img/>](https://github.com//wiki/Test)
+
+ Los Test de la app .
 
 ****
 
@@ -25,12 +31,3 @@ En esta parte se verá como esta construida la base de datos, explicando cada pa
 #### [<img src="Imagenes/EnlaceEspecificaciones.png" width="12%"  > Hoja de especificaciones <img/>](https://github.com//wiki/Hoja-de-especificaciones)
 
    La hoja de especificaciones contiene las entidades que van a estar en la base de datos.
-
-#### [<img src="Imagenes/EnlaceEstructuraBd.png" width="12%"  > Estructura de la base de datos <img/>](https://github.com//wiki/Estructura-de-la-base-de-datos)
-
-   La Estructura que  contiene el modelo es  no relacional.
-
-
-
-
-..
