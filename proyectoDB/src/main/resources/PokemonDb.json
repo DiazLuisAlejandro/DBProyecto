@@ -1,0 +1,686 @@
+{
+    "Pokemon": [
+        {
+            "number": 650,
+            "name": "Chespin",
+            "type": [
+                "Grass"
+            ]
+        },
+        {
+            "number": 651,
+            "name": "Quilladin",
+            "type": [
+                "Grass"
+            ]
+        },
+        {
+            "number": 652,
+            "name": "Chesnaught",
+            "type": [
+                "Grass",
+                "Fighting"
+            ]
+        },
+        {
+            "number": 653,
+            "name": "Fennekin",
+            "type": [
+                "Fire"
+            ]
+        },
+        {
+            "number": 654,
+            "name": "Braixen",
+            "type": [
+                "Fire"
+            ]
+        },
+        {
+            "number": 655,
+            "name": "Delphox",
+            "type": [
+                "Fire",
+                "Psychic"
+            ]
+        },
+        {
+            "number": 656,
+            "name": "Froakie",
+            "type": [
+                "Water"
+            ]
+        },
+        {
+            "number": 657,
+            "name": "Frogadier",
+            "type": [
+                "Water"
+            ]
+        },
+        {
+            "number": 658,
+            "name": "Greninja",
+            "type": [
+                "Water",
+                "Dark"
+            ]
+        },
+        {
+            "number": 659,
+            "name": "Bunnelby",
+            "type": [
+                "Normal"
+            ]
+        },
+        {
+            "number": 660,
+            "name": "Diggersby",
+            "type": [
+                "Normal",
+                "Ground"
+            ]
+        },
+        {
+            "number": 661,
+            "name": "Fletchling",
+            "type": [
+                "Normal",
+                "Flying"
+            ]
+        },
+        {
+            "number": 662,
+            "name": "Fletchinder",
+            "type": [
+                "Fire",
+                "Flying"
+            ]
+        },
+        {
+            "number": 663,
+            "name": "Talonflame",
+            "type": [
+                "Fire",
+                "Flying"
+            ]
+        },
+        {
+            "number": 664,
+            "name": "Scatterbug",
+            "type": [
+                "Bug"
+            ]
+        },
+        {
+            "number": 665,
+            "name": "Spewpa",
+            "type": [
+                "Bug"
+            ]
+        },
+        {
+            "number": 666,
+            "name": "Vivillon",
+            "type": [
+                "Bug",
+                "Flying"
+            ]
+        },
+        {
+            "number": 667,
+            "name": "Litleo",
+            "type": [
+                "Fire",
+                "Normal"
+            ]
+        },
+        {
+            "number": 668,
+            "name": "Pyroar",
+            "type": [
+                "Fire",
+                "Normal"
+            ]
+        },
+        {
+            "number": 669,
+            "name": "Flabébé",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 670,
+            "name": "Floette",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 671,
+            "name": "Florges",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 672,
+            "name": "Skiddo",
+            "type": [
+                "Grass"
+            ]
+        },
+        {
+            "number": 673,
+            "name": "Gogoat",
+            "type": [
+                "Grass"
+            ]
+        },
+        {
+            "number": 674,
+            "name": "Pancham",
+            "type": [
+                "Fighting"
+            ]
+        },
+        {
+            "number": 675,
+            "name": "Pangoro",
+            "type": [
+                "Fighting",
+                "Dark"
+            ]
+        },
+        {
+            "number": 676,
+            "name": "Furfrou",
+            "type": [
+                "Normal"
+            ]
+        },
+        {
+            "number": 677,
+            "name": "Espurr",
+            "type": [
+                "Psychic"
+            ]
+        },
+        {
+            "number": 678,
+            "name": "Meowstic",
+            "type": [
+                "Psychic"
+            ]
+        },
+        {
+            "number": 679,
+            "name": "Honedge",
+            "type": [
+                "Steel",
+                "Ghost"
+            ]
+        },
+        {
+            "number": 680,
+            "name": "Doublade",
+            "type": [
+                "Steel",
+                "Ghost"
+            ]
+        },
+        {
+            "number": 681,
+            "name": "Aegislash",
+            "type": [
+                "Steel",
+                "Ghost"
+            ]
+        },
+        {
+            "number": 682,
+            "name": "Spritzee",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 683,
+            "name": "Aromatisse",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 684,
+            "name": "Swirlix",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 685,
+            "name": "Slurpuff",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 686,
+            "name": "Inkay",
+            "type": [
+                "Dark",
+                "Psychic"
+            ]
+        },
+        {
+            "number": 687,
+            "name": "Malamar",
+            "type": [
+                "Dark",
+                "Psychic"
+            ]
+        },
+        {
+            "number": 688,
+            "name": "Binacle",
+            "type": [
+                "Rock",
+                "Water"
+            ]
+        },
+        {
+            "number": 689,
+            "name": "Barbaracle",
+            "type": [
+                "Rock",
+                "Water"
+            ]
+        },
+        {
+            "number": 690,
+            "name": "Skrelp",
+            "type": [
+                "Poison",
+                "Water"
+            ]
+        },
+        {
+            "number": 691,
+            "name": "Dragalge",
+            "type": [
+                "Poison",
+                "Dragon"
+            ]
+        },
+        {
+            "number": 692,
+            "name": "Clauncher",
+            "type": [
+                "Water"
+            ]
+        },
+        {
+            "number": 693,
+            "name": "Clawitzer",
+            "type": [
+                "Water"
+            ]
+        },
+        {
+            "number": 694,
+            "name": "Helioptile",
+            "type": [
+                "Electric",
+                "Normal"
+            ]
+        },
+        {
+            "number": 695,
+            "name": "Heliolisk",
+            "type": [
+                "Electric",
+                "Normal"
+            ]
+        },
+        {
+            "number": 696,
+            "name": "Tyrunt",
+            "type": [
+                "Rock",
+                "Dragon"
+            ]
+        },
+        {
+            "number": 697,
+            "name": "Tyrantrum",
+            "type": [
+                "Rock",
+                "Dragon"
+            ]
+        },
+        {
+            "number": 698,
+            "name": "Amaura",
+            "type": [
+                "Rock",
+                "Ice"
+            ]
+        },
+        {
+            "number": 699,
+            "name": "Aurorus",
+            "type": [
+                "Rock",
+                "Ice"
+            ]
+        },
+        {
+            "number": 700,
+            "name": "Sylveon",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 701,
+            "name": "Hawlucha",
+            "type": [
+                "Fighting",
+                "Flying"
+            ]
+        },
+        {
+            "number": 702,
+            "name": "Dedenne",
+            "type": [
+                "Electric",
+                "Fairy"
+            ]
+        },
+        {
+            "number": 703,
+            "name": "Carbink",
+            "type": [
+                "Rock",
+                "Fairy"
+            ]
+        },
+        {
+            "number": 704,
+            "name": "Goomy",
+            "type": [
+                "Dragon"
+            ]
+        },
+        {
+            "number": 705,
+            "name": "Sliggoo",
+            "type": [
+                "Dragon"
+            ]
+        },
+        {
+            "number": 706,
+            "name": "Goodra",
+            "type": [
+                "Dragon"
+            ]
+        },
+        {
+            "number": 707,
+            "name": "Klefki",
+            "type": [
+                "Steel",
+                "Fairy"
+            ]
+        },
+        {
+            "number": 708,
+            "name": "Phantump",
+            "type": [
+                "Ghost",
+                "Grass"
+            ]
+        },
+        {
+            "number": 709,
+            "name": "Trevenant",
+            "type": [
+                "Ghost",
+                "Grass"
+            ]
+        },
+        {
+            "number": 710,
+            "name": "Pumpkaboo",
+            "type": [
+                "Ghost",
+                "Grass"
+            ]
+        },
+        {
+            "number": 711,
+            "name": "Gourgeist",
+            "type": [
+                "Ghost",
+                "Grass"
+            ]
+        },
+        {
+            "number": 712,
+            "name": "Bergmite",
+            "type": [
+                "Ice"
+            ]
+        },
+        {
+            "number": 713,
+            "name": "Avalugg",
+            "type": [
+                "Ice"
+            ]
+        },
+        {
+            "number": 714,
+            "name": "Noibat",
+            "type": [
+                "Flying",
+                "Dragon"
+            ]
+        },
+        {
+            "number": 715,
+            "name": "Noivern",
+            "type": [
+                "Flying",
+                "Dragon"
+            ]
+        },
+        {
+            "number": 716,
+            "name": "Xerneas",
+            "type": [
+                "Fairy"
+            ]
+        },
+        {
+            "number": 717,
+            "name": "Yveltal",
+            "type": [
+                "Dark",
+                "Flying"
+            ]
+        },
+        {
+            "number": 718,
+            "name": "Zygarde",
+            "type": [
+                "Dragon",
+                "Ground"
+            ]
+        },
+        {
+            "number": 719,
+            "name": "Diancie",
+            "type": [
+                "Rock",
+                "Fairy"
+            ]
+        },
+        {
+            "number": 720,
+            "name": "Hoopa",
+            "type": [
+                "Psychic",
+                "Ghost"
+            ]
+        },
+        {
+            "number": 720,
+            "name": "Hoopa Unbound",
+            "type": [
+                "Psychic",
+                "Dark"
+            ]
+        },
+        {
+            "number": 721,
+            "name": "Volcanion",
+            "type": [
+                "Fire",
+                "Water"
+            ]
+        }
+    ],
+    "itemsP": [
+        {
+            "id": 1,
+            "nombre": "Mega Piedra",
+            "descripcion": "Permite a ciertos Pokémon megaevolucionar durante la batalla.",
+            "categoria": "Evolución"
+        },
+        {
+            "id": 2,
+            "nombre": "Sachet",
+            "descripcion": "Un saquito fragante que emana un olor que atrae a ciertos Pokémon.",
+            "categoria": "Evolución"
+        },
+        {
+            "id": 3,
+            "nombre": "Whipped Dream",
+            "descripcion": "Una crema esponjosa y dulce, amada por ciertos Pokémon.",
+            "categoria": "Evolución"
+        },
+        {
+            "id": 4,
+            "nombre": "Fairy Gem",
+            "descripcion": "Aumenta la potencia de un movimiento de tipo Hada una vez.",
+            "categoria": "Consumible"
+        },
+        {
+            "id": 5,
+            "nombre": "Assault Vest",
+            "descripcion": "Un chaleco que aumenta la Defensa Especial, pero impide el uso de movimientos que no sean de ataque.",
+            "categoria": "Equipable"
+        },
+        {
+            "id": 6,
+            "nombre": "Safety Goggles",
+            "descripcion": "Unas gafas que protegen al portador de los efectos secundarios del clima y los movimientos que lanzan polvos.",
+            "categoria": "Equipable"
+        },
+        {
+            "id": 7,
+            "nombre": "Ability Capsule",
+            "descripcion": "Permite al portador cambiar una de sus habilidades por otra posible habilidad.",
+            "categoria": "Misceláneo"
+        },
+        {
+            "id": 8,
+            "nombre": "Luminous Moss",
+            "descripcion": "Aumenta la Defensa Especial si el portador es golpeado por un movimiento de tipo Agua.",
+            "categoria": "Consumible"
+        },
+        {
+            "id": 9,
+            "nombre": "Snowball",
+            "descripcion": "Aumenta el Ataque si el portador es golpeado por un movimiento de tipo Hielo.",
+            "categoria": "Consumible"
+        },
+        {
+            "id": 10,
+            "nombre": "Weakness Policy",
+            "descripcion": "Aumenta drásticamente el Ataque y el Ataque Especial si el portador es golpeado por un movimiento que le cause daño súper efectivo.",
+            "categoria": "Consumible"
+        }
+    ],
+    "trainers": [
+        {
+            "id": 1,
+            "name": "Viola",
+            "role": "Santalune City Gym Leader"
+        },
+        {
+            "id": 2,
+            "name": "Grant",
+            "role": "Cyllage City Gym Leader"
+        },
+        {
+            "id": 3,
+            "name": "Korrina",
+            "role": "Shalour City Gym Leader"
+        },
+        {
+            "id": 4,
+            "name": "Ramos",
+            "role": "Coumarine City Gym Leader"
+        },
+        {
+            "id": 5,
+            "name": "Clemont",
+            "role": "Lumiose City Gym Leader"
+        },
+        {
+            "id": 6,
+            "name": "Valerie",
+            "role": "Laverre City Gym Leader"
+        },
+        {
+            "id": 7,
+            "name": "Olympia",
+            "role": "Anistar City Gym Leader"
+        },
+        {
+            "id": 8,
+            "name": "Wulfric",
+            "role": "Snowbelle City Gym Leader"
+        },
+        {
+            "id": 9,
+            "name": "Malva",
+            "role": "Elite Four"
+        },
+        {
+            "id": 10,
+            "name": "Siebold",
+            "role": "Elite Four"
+        },
+        {
+            "id": 11,
+            "name": "Wikstrom",
+            "role": "Elite Four"
+        },
+        {
+            "id": 12,
+            "name": "Drasna",
+            "role": "Elite Four"
+        },
+        {
+            "id": 13,
+            "name": "Diantha",
+            "role": "Champion"
+        }
+    ]
+}
