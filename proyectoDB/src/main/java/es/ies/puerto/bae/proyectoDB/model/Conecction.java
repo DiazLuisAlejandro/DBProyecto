@@ -15,7 +15,7 @@ public class Conecction extends AppConfig {
     }
 
     public void Conexion() throws PokemonException {
-        this.url = "jdbc:sqlite:"+getUrlBd();
+        this.url = getUrlBd();
     }
 
 
