@@ -15,7 +15,7 @@ import java.util.List;
 @Service
 public class ObjectPService implements IService<ObjectPDto> {
 
-    private final static Logger LOGGER = LoggerFactory.getLogger(PokemonService.class);
+    private final static Logger LOGGER = LoggerFactory.getLogger(ObjectPService.class);
 
     private IObjectPDao iObjectPDao;
 

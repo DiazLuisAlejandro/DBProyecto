@@ -1,11 +1,16 @@
 package es.ies.puerto.bae.proyectoDB.model.entity;
 
 import es.ies.puerto.bae.proyectoDB.enumerate.Type;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.List;
 import java.util.Objects;
 
+@Document("Pokemon")
 public class Pokemon {
+
+    @Id
     private int id;
     private List<Type> types;
     private String name;
