@@ -16,7 +16,7 @@ En esta parte se verá como esta construida la base de datos
 
 ## Aplicación PokemonDb
 
-#### [<img src="Imagenes/EnlaceEstructuraBd.png" width="12%"  >  <img/>](https://github.com/DiazLuisAlejandro/DBProyecto/wiki/La-App-de-PokémonDb)
+#### [<img src="Imagenes/EnlaceEstructuraBd.png" width="12%"  > App <img/>](https://github.com/DiazLuisAlejandro/DBProyecto/wiki/La-App-de-PokémonDb)
 
    La app esta diseñada para buscar , eliminar , insertar  y modificar  .
 
