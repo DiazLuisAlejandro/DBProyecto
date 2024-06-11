@@ -26,10 +26,9 @@ En esta parte se verá como esta construida la base de datos
 
 ## Base de datos PokemonDb
 
-#### [<img src="Imagenes/EnlaceEspecificaciones.png" width="12%"  > Hoja de especificaciones ](https://github.com/DiazLuisAlejandro/DBProyecto/wiki/Hoja-de-especificaciones)
+ Contiene las entidades que van a estar en la base de datos.
 
-   La hoja de especificaciones contiene las entidades que van a estar en la base de datos.
-
+<img src="Imagenes/BD.jpeg" width="20%"  >
 
 ****
 
