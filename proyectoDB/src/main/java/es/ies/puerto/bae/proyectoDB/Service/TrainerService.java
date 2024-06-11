@@ -1,12 +1,8 @@
 package es.ies.puerto.bae.proyectoDB.Service;
 
-import es.ies.puerto.bae.proyectoDB.Dto.ObjectPDto;
 import es.ies.puerto.bae.proyectoDB.Dto.TrainerDto;
-import es.ies.puerto.bae.proyectoDB.mappers.IMapperObjectP;
 import es.ies.puerto.bae.proyectoDB.mappers.IMapperTrainer;
-import es.ies.puerto.bae.proyectoDB.model.Dao.IObjectPDao;
 import es.ies.puerto.bae.proyectoDB.model.Dao.ITrainerDao;
-import es.ies.puerto.bae.proyectoDB.model.entity.ObjectP;
 import es.ies.puerto.bae.proyectoDB.model.entity.Trainer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -18,7 +14,7 @@ import java.util.List;
 
 @Service
 public class TrainerService implements IService<TrainerDto>{
-    private final static Logger LOGGER = LoggerFactory.getLogger(PokemonService.class);
+    private final static Logger LOGGER = LoggerFactory.getLogger(TrainerService.class);
 
     private ITrainerDao iTrainerDao;
 

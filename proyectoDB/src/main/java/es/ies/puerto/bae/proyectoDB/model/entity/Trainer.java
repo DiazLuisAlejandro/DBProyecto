@@ -1,10 +1,15 @@
 package es.ies.puerto.bae.proyectoDB.model.entity;
 
 import es.ies.puerto.bae.proyectoDB.enumerate.Role;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Objects;
 
+@Document("Trainer")
 public class Trainer {
+
+    @Id
     private int id;
     private String name;
     private Role role;

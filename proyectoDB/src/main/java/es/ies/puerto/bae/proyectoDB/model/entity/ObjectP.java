@@ -1,12 +1,16 @@
 package es.ies.puerto.bae.proyectoDB.model.entity;
 
 import es.ies.puerto.bae.proyectoDB.enumerate.Category;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Objects;
 
-
+@Document("ObjectP")
 public class ObjectP {
 
+
+    @Id
     private int id;
     private String name;
     private String description;
