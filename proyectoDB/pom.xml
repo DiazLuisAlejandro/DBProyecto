@@ -13,7 +13,7 @@
 	<groupId>es.ies.puerto</groupId>
 	<artifactId>ProyectoDB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>persona-project</name>
+	<name>pokemon-project</name>
 	<description>Proyecto de bbdd en mongo</description>
 
 
